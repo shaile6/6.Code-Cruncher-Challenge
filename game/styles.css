@@ -30,9 +30,7 @@ button:hover {
   background-color: #8570a5;
 }
 
-.choices button {
-  display: block;
-}
+
 
 input[type="text"] {
   font-size: 100%;
@@ -58,13 +56,6 @@ li:nth-child(odd) {
   max-width: 600px;
 }
 
-.hide {
-  display: none;
-}
-
-.start {
-  text-align: center;
-}
 
 .scores {
   position: absolute;
